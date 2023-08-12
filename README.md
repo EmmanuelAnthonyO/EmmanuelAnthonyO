@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Emmanuel Anthony 🙂
 
 <!--
 **EmmanuelAnthonyO/EmmanuelAnthonyO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+***
+### 👨🏽‍💻 About Me 
+Power platform developer currently automating business solutions for over 3000 users.
+***
+### 🔭 I’m currently working on 
+* Contributing to open source
+* Providing step-by-step power platform documentation
+***
+### 🧰 Skills
+* Powerapps
+* Power automate
+* Sharepoint Online
+* Office 365
+* HTML
+* CSS
+***
+### 📫 Reach Me
+
+* LinkedIn: https://www.linkedin.com/in/anthony-emmanuel/
+* Twitter: https://twitter.com/Anthony_EOO
