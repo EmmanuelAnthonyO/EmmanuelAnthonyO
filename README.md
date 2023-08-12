@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ***
 ### 👨🏽‍💻 About Me 
-Power platform developer currently building apps and automating business processes for over 3000 users.
+Power platform developer currently building applications and automating business processes for over 3000 users.
 ***
 ### 🔭 I’m currently working on 
 * Contributing to open source
