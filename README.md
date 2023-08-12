@@ -26,6 +26,7 @@ Power platform developer currently automating business solutions for over 3000 u
 * Powerapps
 * Power automate
 * Sharepoint Online
+* Technical Writing
 * Office 365
 * HTML
 * CSS
