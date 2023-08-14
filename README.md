@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ### 👨🏽‍💻 About Me 
 Power platform developer currently building applications and automating business processes for over 3000 users.
 ***
-### 🔭 I’m currently working on 
+### 🔭 I’m interested in 
 * Contributing to open source
-* Providing step-by-step power platform documentation
+* Providing power platform documentation
 ***
 ### 🧰 Skills
 * Powerapps
