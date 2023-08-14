@@ -21,6 +21,7 @@ Power platform developer currently building applications and automating business
 ### 🔭 I’m interested in 
 * Contributing to open source
 * Providing power platform documentation
+* Power platform development
 ***
 ### 🧰 Skills
 * Powerapps
