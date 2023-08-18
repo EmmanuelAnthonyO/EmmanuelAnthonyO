@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 Power platform developer currently building applications and automating business processes for over 3000 users.
 ***
 ### 🔭 I’m interested in 
-* Contributing to open source
-* Providing power platform documentation
+* Open-source contribution
+* Power platform documentation
 * Power platform development
 ***
 ### 🧰 Skills
